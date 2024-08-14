@@ -20,6 +20,8 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
 CHC动作电影,https://pi.0472.org/chc/dz.m3u8
 CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
+风云音乐高清,http://111.227.200.75:4000/rtp/239.254.201.221:7259
+风云音乐高清,http://110.178.52.111:8082/udp/239.1.1.96:8096
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
